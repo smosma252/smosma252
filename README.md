@@ -6,10 +6,10 @@
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr>
     <td style="border: none;">
-      &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smosma252&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=ffffff&text_color=8b949e&icon_color=ffb6c1&border_color=ffffff" alt="osama" />
+      &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smosma252&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=ffffff&text_color=8b949e&icon_color=a83232&border_color=ffffff" alt="osama" />
     </td>
     <td style="border: none;">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smosma252&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=8b949e&icon_color=79ff97&border_color=ffffff" alt="osama" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smosma252&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=8b949e&icon_color=a83232&border_color=ffffff" alt="osama" />
     </td>
   </tr>
 </table>
