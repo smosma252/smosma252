@@ -50,7 +50,7 @@
   <a href="mailto:oshahid252@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&logoWidth=30&width=500" width="90" height="30" />
   </a>
-  <a href="https://www.linkedin.com/in/osama252/">
+  <a href="https://www.linkedin.com/in/osama-shahid252/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&logoWidth=30&width=200" width="90" height="30" />
   </a>
 </p>
