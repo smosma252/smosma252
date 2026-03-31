@@ -1,9 +1,25 @@
-# Hi there, I'm Osama 👋🏼
-> **Software Engineer**
+<h1 align="center">
+  Hey there 👋🏼, I'm Osama
+</h1>
 
 <h3 align="center">
   🚀 Backend | Full-Stack | Distributed Systems | AI Engineer
 </h3>
+
+---
+
+## 🧑‍💻 About Me
+
+I’m a **Backend & Distributed Systems Engineer** with **4 years of experience **, building **scalable, high-performance systems** across backend infrastructure, real-time applications, and AI-driven products.
+
+- ⚙️ Design and build **event-driven, high-throughput backend systems**
+- 📡 Develop **real-time applications** using WebSockets, WebRTC, and distributed architectures
+- 🤖 Integrate **LLMs and AI systems** (RAG pipelines, multi-agent workflows, automation)
+- 🧠 Strong focus on **system design, scalability, and reliability under load**
+- 👨‍💻 Experienced in building systems from **idea → production → scale**
+- 🚀 Continuously exploring **AI infrastructure, distributed systems, and performance optimization**
+
+I focus on delivering **robust, scalable, and production-ready systems** that solve real-world problems efficiently.
 
 ---
 
