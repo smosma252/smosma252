@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-I’m a **Backend & Distributed Systems Engineer** with **4 years of experience **, building **scalable, high-performance systems** across backend infrastructure, real-time applications, and AI-driven products.
+I’m a **Backend & Distributed Systems Engineer** with **4 years of experience**, building **scalable, high-performance systems** across backend infrastructure, real-time applications, and AI-driven products.
 
 - ⚙️ Design and build **event-driven, high-throughput backend systems**
 - 📡 Develop **real-time applications** using WebSockets, WebRTC, and distributed architectures
